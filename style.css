@@ -3,11 +3,17 @@ h1 {
     font-size: 60px;
     font-family: 'lobster', cursive;
     text-align: center;
+    background-color: #Ff7e70;
+    margin:0;
+    padding: 0px;
 }
 h2 {
     font-size: 30px;
     font-family: 'lobster', cursive;
     text-align: center;
+    background-color: #Ff7e70;
+    margin:0;
+    padding: 0px;
 }
 h3 {
     font-size: 35px;
@@ -23,7 +29,13 @@ nav {
     text-align: center;
     margin-top: 20px;
     font-size: 30px;
+    background-color: #Ff7e70;
+    margin:0;
+    padding: 0px;
 }
 body {
-    background-color:  #Ff7e70;
+    background-color:  #fffdd0;
+    margin: 0;
+    padding: 0;
+
 }
