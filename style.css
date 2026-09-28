@@ -65,6 +65,13 @@ h5 {
     font-family: 'lobster', cursive;
     text-align: center;
 }
+h6 {
+        font-size: 25px;
+    font-family: 'lobster', cursive;
+    text-align: center;
+}
+
+
 p {
         font-size: 35px;
     font-family: 'lobster', cursive;
@@ -437,4 +444,7 @@ footer p {
         padding: 25px;
     }
 
+}
+.Logo {
+    
 }
