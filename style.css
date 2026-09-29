@@ -218,6 +218,7 @@ nav a:hover {
     border-radius: 16px;
     overflow: hidden;
     padding-bottom: 22px;
+    padding: 35px 25px;
     transition: all 0.3s ease;
 }
 
@@ -358,6 +359,15 @@ nav a:hover {
     display: block;
     margin: 0 auto 15px;
     border-radius: 150px;
+}
+
+.about-box video {
+    display: block;
+    width: 100%;
+    max-width: 700px;
+    height: auto;
+    margin: 15px auto 5px;
+    border-radius: 12px;
 }
 
 
